@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="diploma_project" targetName="yzip" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9aa46e93-06e5-4d74-8831-f0614eacea20" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/file_handle/file_handle.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/size_h/size_h.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package/mode_to_letters.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package/get_cur_time.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///usr/include/c++/11.2.0/bits/basic_string.h" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/package/pack.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package/pack.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/size_h/size_h.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/yzip.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/file_handle/file_handle.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lzw/lzw.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.3" />
+  </component>
+  <component name="ProjectId" id="25zynPIAqNEEHU263SccxBTHKP9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/bak/bzip-2/diploma_project" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/package" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/version" />
+      <recent name="$PROJECT_DIR$/endswith" />
+      <recent name="$PROJECT_DIR$/file_handle" />
+      <recent name="$PROJECT_DIR$/getfile" />
+      <recent name="$PROJECT_DIR$/error" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake 应用程序.yzip">
+    <configuration name="bzip" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-v -d $USER_HOME$/Test/bitFile/code/1.ttx.bz" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diploma_project" TARGET_NAME="bzip" RUN_TARGET_PROJECT_NAME="diploma_project" RUN_TARGET_NAME="bzip">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bzip2" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-cv $PROJECT_DIR$/../../pack/ -o $PROJECT_DIR$/../../pack/out/all" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diploma_project" TARGET_NAME="bzip2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="diploma_project" RUN_TARGET_NAME="bzip2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yzip" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-vr $USER_HOME$/history/2022.4.10/diploma_project -o $USER_HOME$/Test/bitFile/code/project.pkg.yz" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diploma_project" TARGET_NAME="yzip" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="diploma_project" RUN_TARGET_NAME="yzip">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.bzip" />
+      <item itemvalue="CMake 应用程序.bzip2" />
+      <item itemvalue="CMake 应用程序.yzip" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9aa46e93-06e5-4d74-8831-f0614eacea20" name="Changes" comment="" />
+      <created>1646544395062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646544395062</updated>
+      <workItem from="1646544397114" duration="70000" />
+      <workItem from="1646544474645" duration="703000" />
+      <workItem from="1646546570750" duration="402000" />
+      <workItem from="1646546986220" duration="122000" />
+      <workItem from="1646548133040" duration="947000" />
+      <workItem from="1646565109282" duration="4121000" />
+      <workItem from="1646813899259" duration="1000" />
+      <workItem from="1646813917558" duration="5300000" />
+      <workItem from="1646878149147" duration="2160000" />
+      <workItem from="1646886420283" duration="23341000" />
+      <workItem from="1646964609460" duration="15062000" />
+      <workItem from="1646995633256" duration="4271000" />
+      <workItem from="1647050603395" duration="2873000" />
+      <workItem from="1647069855965" duration="601000" />
+      <workItem from="1647071002260" duration="6161000" />
+      <workItem from="1647094719742" duration="1000" />
+      <workItem from="1647139324589" duration="889000" />
+      <workItem from="1647141797681" duration="253000" />
+      <workItem from="1647142310787" duration="15000" />
+      <workItem from="1647142400102" duration="599000" />
+      <workItem from="1647143269532" duration="1198000" />
+      <workItem from="1647147730153" duration="6997000" />
+      <workItem from="1647169821961" duration="617000" />
+      <workItem from="1647170997153" duration="1307000" />
+      <workItem from="1647174079881" duration="1899000" />
+      <workItem from="1647220953953" duration="25595000" />
+      <workItem from="1647256786813" duration="3461000" />
+      <workItem from="1647351290182" duration="435000" />
+      <workItem from="1647429612860" duration="1341000" />
+      <workItem from="1647488929520" duration="40000" />
+      <workItem from="1647488978504" duration="5383000" />
+      <workItem from="1647600311070" duration="4662000" />
+      <workItem from="1647656108286" duration="15200000" />
+      <workItem from="1647677682319" duration="6262000" />
+      <workItem from="1647690491377" duration="2000" />
+      <workItem from="1647692858446" duration="3764000" />
+      <workItem from="1647742230273" duration="4375000" />
+      <workItem from="1647759698163" duration="13120000" />
+      <workItem from="1647832648754" duration="1807000" />
+      <workItem from="1647846863102" duration="8262000" />
+      <workItem from="1647911365407" duration="641000" />
+      <workItem from="1647946073741" duration="11296000" />
+      <workItem from="1648437852908" duration="735000" />
+      <workItem from="1648523441225" duration="315000" />
+      <workItem from="1648613741810" duration="17527000" />
+      <workItem from="1648635706826" duration="192000" />
+      <workItem from="1648636083632" duration="128000" />
+      <workItem from="1648636258946" duration="159000" />
+      <workItem from="1648986196388" duration="2942000" />
+      <workItem from="1649050600262" duration="3943000" />
+      <workItem from="1649133982385" duration="6626000" />
+      <workItem from="1649157243622" duration="1279000" />
+      <workItem from="1649169893359" duration="352000" />
+      <workItem from="1649208130952" duration="2453000" />
+      <workItem from="1649305678845" duration="23045000" />
+      <workItem from="1649375880772" duration="17592000" />
+      <workItem from="1649466703936" duration="19404000" />
+      <workItem from="1649493964077" duration="284000" />
+      <workItem from="1649494265499" duration="8721000" />
+      <workItem from="1649562710525" duration="55000" />
+      <workItem from="1649562775922" duration="1000" />
+      <workItem from="1649567575451" duration="12159000" />
+      <workItem from="1649584837545" duration="638000" />
+      <workItem from="1649591511261" duration="1601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/file_handle/file_handle.cpp</url>
+          <line>118</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="(outi_nfo.size_bef-outi_nfo.size_cur)/outi_nfo.size_bef" language="ObjectiveC" />
+        <watch expression="(2&lt;&lt;CODE_LEN-1)" language="ObjectiveC" />
+        <watch expression="((2&lt;&lt;CODE_LEN)-1)" language="ObjectiveC" />
+        <watch expression="CURRENT_MAX_CODES(cur_code_len)" language="ObjectiveC" />
+        <watch expression="dict[code_str]" language="ObjectiveC" />
+        <watch expression="errno" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
