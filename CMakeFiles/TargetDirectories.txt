@@ -1,0 +1,3 @@
+/home/yangyao/Git/yzip/CMakeFiles/yzip.dir
+/home/yangyao/Git/yzip/CMakeFiles/edit_cache.dir
+/home/yangyao/Git/yzip/CMakeFiles/rebuild_cache.dir
